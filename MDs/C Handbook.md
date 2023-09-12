@@ -78,9 +78,9 @@ ___
 # 2. Data Types
 
 
-```
+
 | Type | Keyword |
-|-------|------|
+|------|------|
 | Boolean | bool |
 | Character | char |
 | Integer | int |
@@ -88,8 +88,7 @@ ___
 | Double Floating Point | double |
 | Valueless | void |
 | Wide character | wchar_t |
-```
-
+|------|------|
 
 
 
