@@ -130,11 +130,12 @@ ___
 |cerr|	standard error (output) stream|
 |clog|	standard logging (output) stream|
 
-### Input
+### Standard Input/Output
 
 ```cpp
 int x; 
 cin >> x; // Cin = user input
+cout << "\nThe value of x is: " << x; // Output
 ```
 
 
@@ -146,9 +147,15 @@ ___
 
 # 4. Arithmetic Operations
 
-???
-
-
+|Operator	Name	|Description	|Example|
+|-----|-----|----|
+|+	|Addition	Adds together two values	|x + y	|
+|-	|Subtraction	Subtracts one value from another	|x - y	|
+|*	|Multiplication	Multiplies two values	|x * y	|
+|/	|Division	Divides one value by another	|x / y	|
+|%	|Modulus	Returns the division remainder	|x % y	|
+|++	|Increment	Increases the value of a variable by 1	|++x	|
+|--	|Decrement	Decreases the value of a variable by 1	|--x	|
 
 
 
@@ -157,10 +164,21 @@ ___
 
 
 
-
 # 5. Assignment Operations
 
-???
+| Operator | Syntax |
+|-----|----|
+|simple assignment	|a = b|
+|addition assignment	|a += b|
+|subtraction assignment	|a -= b|
+|multiplication assignment	|a *= b|
+|division assignment	|a /= b|
+|remainder assignment	|a %= b|
+|bitwise AND assignment	|a &= b|
+|bitwise OR assignment	| a |= b|	
+|bitwise XOR assignment	|a ^= b|	
+|bitwise left shift assignment	|a <<= b|
+|bitwise right shift assignment	|a >>= b|	
 
 
 
