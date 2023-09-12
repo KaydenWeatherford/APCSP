@@ -66,7 +66,7 @@ ___
 
 The run button sucks so just Compile and Run it in Shell.
 C++ Compile and Run Statement:
-*g++ -o (Folder)/(Executible Name).exe (Folder)/(C++ File Name).cpp && ./(Folder)/(Executible Name).exe*
+### g++ -o (Folder)/(Executible Name).exe (Folder)/(C++ File Name).cpp && ./(Folder)/(Executible Name).exe*
 
 
 
@@ -89,10 +89,10 @@ ___
 
 ## Modifiers
 
-signed
-unsigned
-short
-long
+* signed
+* unsigned
+* short
+* long
 
 ### Modifer Types
 
@@ -121,14 +121,21 @@ ___
 
 
 
-
-
 # 3. Console I/O
 
-???
+| Syntax | Discription |
+|-----|-----|
+|cin|standard input stream|
+|cout|	standard output stream|
+|cerr|	standard error (output) stream|
+|clog|	standard logging (output) stream|
 
+### Input
 
-
+```cpp
+int x; 
+cin >> x; // Cin = user input
+```
 
 
 ___
