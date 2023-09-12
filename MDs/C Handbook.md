@@ -9,8 +9,6 @@ Kayden Weatherford
 replace all "???" with your own text. -->
 
 
-
-
 ___
 
 
@@ -66,9 +64,9 @@ ___
 
 # 1. Compiling and Running
 
-???
-
-
+The run button sucks so just Compile and Run it in Shell.
+C++ Compile and Run Statement:
+*g++ -o (Folder)/(Executible Name).exe (Folder)/(C++ File Name).cpp && ./(Folder)/(Executible Name).exe*
 
 
 
@@ -77,13 +75,19 @@ ___
 
 
 
-
 # 2. Data Types
 
-???
 
-```LANGUAGE_HERE
-
+```
+| Type | Keyword |
+|-------|------|
+| Boolean | bool |
+| Character | char |
+| Integer | int |
+| Floating Point | float |
+| Double Floating Point | double |
+| Valueless | void |
+| Wide character | wchar_t |
 ```
 
 
