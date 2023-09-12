@@ -29,7 +29,7 @@ for (double p : precision)
   cout << "\nThe Radius is: " << RA;
   cout << "\nThe Diameter is: " << DA;
   cout << "\nThe Circumference is: " << CA;
-  cout << "\nThe Area is: " << AA;
+  cout << "\nThe Area is: " << AA << endl;
     }
   
   
