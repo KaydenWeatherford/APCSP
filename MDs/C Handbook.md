@@ -66,7 +66,7 @@ ___
 
 The run button sucks so just Compile and Run it in Shell.
 C++ Compile and Run Statement:
-### g++ -o (Folder)/(Executible Name).exe (Folder)/(C++ File Name).cpp && ./(Folder)/(Executible Name).exe*
+### g++ -o (Folder)/(Executible Name).exe (Folder)/(C++ File Name).cpp && ./(Folder)/(Executible Name).exe
 
 
 
@@ -175,12 +175,10 @@ ___
 |division assignment	|a /= b|
 |remainder assignment	|a %= b|
 |bitwise AND assignment	|a &= b|
-|bitwise OR assignment	| a |= b|	
+|bitwise OR assignment	| a \|= b|	
 |bitwise XOR assignment	|a ^= b|	
 |bitwise left shift assignment	|a <<= b|
 |bitwise right shift assignment	|a >>= b|	
-
-
 
 
 
