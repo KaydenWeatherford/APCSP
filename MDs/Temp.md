@@ -1,4 +1,4 @@
 # Just some Temp Notes
 
 Run:
-g++ -o Assignments/58h.exe Assignments/58h.cpp && ./Assignments/58h.exe
+g++ -o Assignments/72t.exe Assignments/72t.cpp && ./Assignments/72t.exe

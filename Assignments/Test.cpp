@@ -1,16 +1,13 @@
+#include <ctime>
 #include <iostream>
-#include <cmath>
 using namespace std;
+
+
+//This place is used just to test chunks of code to see how they work.
 
 int main()
 {
 
-  int A, R;
-  cout << "\nValue" << endl;
-    cin >> R;
-  
-    A = pow(R, 2);
 
-    cout << "\nSquare: " << A << endl;
-  return 0;
+  
 }
