@@ -1,4 +1,4 @@
 # Just some Temp Notes
 
 Run:
-g++ -o Assignments/LP_4-3.exe Assignments/LP_4-3.cpp && ./Assignments/LP_4-3.exe
+g++ -o Assignments/StrQues12.exe Assignments/StrQues12.cpp && ./Assignments/StrQues12.exe

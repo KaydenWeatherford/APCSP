@@ -132,11 +132,18 @@ ___
 
 ### Standard Input/Output
 
-```cpp
-int x; 
-cin >> x; // Cin = user input
-cout << "\nThe value of x is: " << x; // Output
+## C++
 ```
+int x; 
+cin >> x; // Cin = C++ Input
+cout << "\nThe value of x is: " << x; // C++ Output
+```
+
+## C
+```
+scanf()
+printf()
+
 
 
 ___
