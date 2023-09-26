@@ -1,4 +1,4 @@
 # Just some Temp Notes
 
 Run:
-g++ -o Assignments/115b.exe Assignments/115b.cpp && ./Assignments/115b.exe
+g++ -o Assignments/122d.exe Assignments/122d.cpp && ./Assignments/122d.exe
