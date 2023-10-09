@@ -1,4 +1,4 @@
 # Just some Temp Notes
 
 Run:
-g++ -o Assignments/StrQues16.exe Assignments/StrQues16.cpp && ./Assignments/StrQues16.exe
+g++ -o Assignments/MSOE_2008-6.exe Assignments/MSOE_2008-6.cpp && ./Assignments/MSOE_2008-6.exe
