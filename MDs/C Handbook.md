@@ -197,9 +197,10 @@ ___
 
 # 6. Comments
 
-???
+Using "//" you can make a comment.
 
-
+Ex:
+// A comment could be made here!
 
 
 
@@ -211,8 +212,29 @@ ___
 
 # 7. Decision Structures
 
-???
+if statement
+  if(status == true)
+  {
+    ...
+  }
+  
+if..else statements
 
+
+nested if statements
+
+
+if-else-if ladder
+
+
+switch statements
+
+
+Jump Statements: 
+  break
+  continue
+  goto
+  return
 
 
 
