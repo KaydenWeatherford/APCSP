@@ -55,11 +55,13 @@ int main(){
   long int A = 500000, B = 10000000;
   double Rev[sz];
   double sum = getSum(Rev, sz, A, B);
-  double tax = (sum * 0.05);
+  double tax = (sum * 0.05), profit = (sum - tax);
   cout<<"\nEvery Week Over the Course of a Month,\nRevenue was Totaled and Collected." <<endl;
   printf("The total Revenue is: $%.2f\n", sum);
   
   printf("The Estimated Taxes Due(5%) On Revenue: $%.2f\n", tax);
+
+  printf("Estimated Total Profit: $%.2f\n", profit);
   return(0);
   }
  
