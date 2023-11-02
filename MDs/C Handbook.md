@@ -247,8 +247,13 @@ ___
 
 # 8. Conditional Operators
 
-???
-
+## If Condtional
+Ex: 
+  if(condition) {
+    var = X;
+   } else {
+    var = Y;
+   }
 
 
 

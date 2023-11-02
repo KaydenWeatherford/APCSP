@@ -6,6 +6,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// g++ -o Assignments/505a.exe Assignments/505a.cpp && ./Assignments/505a.exe
 void removeDupWord(string str)
 {
     istringstream ss(str);

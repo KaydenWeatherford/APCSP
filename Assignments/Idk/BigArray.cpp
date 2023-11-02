@@ -8,13 +8,10 @@ using namespace std;
 
 // FUNCTIONS!!!!!!!
   int findMin(int arr[], int n)
-  {
-  return *min_element(arr, arr + n);
-  }
-  int findMax(int arr[], int n)
-  {
-  return *max_element(arr, arr + n);
-  }
+    {
+     return min_element(arr, arr + n);
+    }
+
 
 // Vroom Code
 int main()
