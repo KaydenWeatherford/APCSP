@@ -1,5 +1,6 @@
 { pkgs }: {
 	deps = [
+   pkgs.zulu
    pkgs.python39Packages.pip
 		pkgs.python39Full
   pkgs.python39Full
