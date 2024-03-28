@@ -45,8 +45,6 @@ int main()
   total = total / 100;
   
   cout << "\nThe Total is:" << total << endl;
-  
-  
   total = total * 100+0.5;
   total = floor(total);
   total = total / 100;

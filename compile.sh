@@ -10,3 +10,5 @@ g++ -o "$1.exe" "$1.cpp" && ./"$1.exe"
 # gcc -o "$1.exe" "$1.c" && ./"$1.exe"
 # mcs -out:"$1.exe" "$1.cs" && mono "$1.exe"
 # rustc "$1.rs" -o ./"$1.exe" && ./"$1.exe"
+
+g++ -o "PT.exe" "Assignments/Done/PT.cpp" && ./"PT.exe"
