@@ -7,7 +7,7 @@
 #include <bits/stdc++.h> 
 using namespace std;
 
-// g++ -o "MSOE_2015_7.exe" "Assignments/MSOE_2015_7.cpp" && ./"MSOE_2015_7.exe"
+// g++ -o "MSOE_2015_7.exe" "Assignments/Done/MSOE_2015_7.cpp" && ./"MSOE_2015_7.exe"
 
 vector<int> generateTri(int a){
   // Generates all the triangles that can be made from the given number.
