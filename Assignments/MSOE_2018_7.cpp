@@ -13,7 +13,7 @@ using namespace std;
 
 // g++ -o "MSOE_2018_7.exe" "Assignments/MSOE_2018_7.cpp" && ./"MSOE_2018_7.exe"
 
-// Function provided by GeeksForGeeks, Modified
+// Function provided by GeeksForGeeks, Modified by Me slightly
 // https://www.geeksforgeeks.org/convert-unix-timestamp-to-dd-mm-yyyy-hhmmss-format/
 string unixTimeToHumanReadable(long int seconds) 
     {
